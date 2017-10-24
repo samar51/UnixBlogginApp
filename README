@@ -1,0 +1,17 @@
+This is a basic blogging Application made using unix shell script.
+Requirement to run this script:
+1.ubuntu machine 16.10 yakkety or more
+2.apache or nginx webs server
+3.Php configured on the machine
+4.sqlite3(light weight databse)
+run the blog.sh --help command to list the available commands
+features:
+1.Adding post
+2.Deletion of Post
+3.Listing of post
+4.Listing category
+5.Deleting category
+6.Adding category
+7.Listing comments
+8.Deleting comments
+and many more
