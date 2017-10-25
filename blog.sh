@@ -1,7 +1,8 @@
 #!/bin/bash
 #please uncomment the set -x for debugging
 #set -x
-#testing 
+#testing
+#testing 2
 #variavles declaration
 DATABASE="/root/blog.db"
 PRAGMA="PRAGMA foreign_keys = ON;"
